@@ -95,7 +95,7 @@
     <ID>A14</ID>
     <JP-Name>「川内」型軽巡姉妹の全３艦を編成せよ！</JP-Name>
     <TR-Name>Form the Sendai-class!</TR-Name>
-    <JP-Detail>川内型軽巡洋艦、「川内」「神通」「那珂」を同一艦隊に編成せよ！</JP-Detail>
+    <JP-Detail>川内型軽巡洋艦「川内」「神通」「那珂」を同一艦隊に配属せよ！</JP-Detail>
     <TR-Detail>Have Sendai (川内), Jintsuu (神通) and Naka (那珂) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
@@ -383,7 +383,63 @@
     <JP-Name>「第三十駆逐隊(第一次)」出撃せよ！</JP-Name>
     <TR-Name>Sortie the Destroyer Division 30 (Gen-1)!</TR-Name>
     <JP-Detail>「第三十駆逐隊(第一次)」を含む艦隊で出撃し、キス島沖の主力艦隊と交戦せよ！</JP-Detail>
-    <TR-Detail>Deploy a fleet with Mutsuki, Kisaragi, Yayoi, Mochizuki and 2 DD. Score a victory against World 3-2 Boss.</TR-Detail>
+    <TR-Detail>Deploy a fleet with Mutsuki, Kisaragi, Yayoi, Mochizuki and 2 DD. Score at least a C Rank against World 3-2 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>B23</ID>
+    <JP-Name>「航空戦艦」抜錨せよ！</JP-Name>
+    <TR-Name>Sortie the aviation battleship fleet.</TR-Name>
+    <JP-Detail>...</JP-Detail>
+    <TR-Detail>Deploy a fleet of at least 2 aviation battleships. Score a victory against World 4-4 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>B24</ID>
+    <JP-Name>「第三十駆逐隊」対潜哨戒！</JP-Name>
+    <TR-Name>Sortie the Destroyer Division 30 (Gen-2)!</TR-Name>
+    <JP-Detail>...</JP-Detail>
+    <TR-Detail>Deploy a fleet with  Mutsuki, Yayoi, Uzuki, and Mochizuki. Score at least a C Rank against World 1-5 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>B25</ID>
+    <JP-Name>新編「第二航空戦隊」出撃せよ！</JP-Name>
+    <TR-Name>Sortie the Second Carrier Division.</TR-Name>
+    <JP-Detail>...</JP-Detail>
+    <TR-Detail>Deploy a fleet with Hiryuu Kai 2 as flagship, Souryuu, 2 DD's and 2 additional ships. Score an S Rank against World 5-2 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>B26</ID>
+    <JP-Name>精鋭「第二航空戦隊」抜錨せよ！</JP-Name>
+    <TR-Name>Sortie the Elite Second Carrier Division.</TR-Name>
+    <JP-Detail>...</JP-Detail>
+    <TR-Detail>Deploy a fleet with Souryuu Kai-2 as flagship, Hiryuu Kai-2, 2 DD's and 2 additional ships. Score an S Rank against World 4-3 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>B27</ID>
+    <JP-Name>戦艦「榛名」出撃せよ！</JP-Name>
+    <TR-Name>Sortie Haruna.</TR-Name>
+    <JP-Detail>...</JP-Detail>
+    <TR-Detail>Deploy a fleet with Haruna Kai-2 as flagship and 5 additional ships. Score an S Rank against World 5-1 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>B28</ID>
+    <JP-Name>「第六〇一航空隊」出撃せよ！</JP-Name>
+    <TR-Name>Sortie the 601st Naval Air Group.</TR-Name>
+    <JP-Detail>...</JP-Detail>
+    <TR-Detail>Deploy a fleet with Unryuu Kai and 5 additional ships. Score an S Rank against World 5-2 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>B29</ID>
+    <JP-Name>「軽空母」戦隊、出撃せよ！</JP-Name>
+    <TR-Name>Sortie at 2-1 with the Light Carrier Squadron.</TR-Name>
+    <JP-Detail>...</JP-Detail>
+    <TR-Detail>Deploy a fleet with 1 CL, 1 or 2 CVL, and 3 or 4 DD. Score an S Rank against World 2-1 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>B30</ID>
+    <JP-Name>「水雷戦隊」バシー島沖緊急展開</JP-Name>
+    <TR-Name>Bashi Islands emergency development!</TR-Name>
+    <JP-Detail>...</JP-Detail>
+    <TR-Detail>Deploy a Torpedo Squadron with 1 or 2 CL and 4 or 5 DD with a CL as flagship. Score an S Rank against World 2-2 Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>Bd1</ID>
@@ -504,6 +560,7 @@
     <JP-Detail>南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！</JP-Detail>
     <TR-Detail>Defeat 2 bosses in World 5-2 with S RATING victory or higher.</TR-Detail>
   </Quest>
+  
   <Quest>
     <ID>C1</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
@@ -679,14 +736,14 @@
     <JP-Detail>大型艦建造の準備をします！「工廠」で装備アイテムを4回「廃棄」してみてください！</JP-Detail>
     <TR-Detail>Scrap equipment 4 times.</TR-Detail>
   </Quest>
-    <Quest>
+  <Quest>
     <ID>F11</ID>
     <JP-Name>輸送用ドラム缶の準備</JP-Name>
     <TR-Name>Preparation for Transport Drum Canisters</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを3回「廃棄」して、輸送用ドラム缶を準備します。</JP-Detail>
     <TR-Detail>Scrap equipment 3 times.</TR-Detail>
   </Quest>
-    <Quest>
+  <Quest>
     <ID>F12</ID>
     <JP-Name>資源の再利用</JP-Name>
     <TR-Name>Weekly Dismantlement</TR-Name>
@@ -923,5 +980,19 @@
     <TR-Name>Reorganise the Strengthened 2nd Carrier Division</TR-Name>
     <JP-Detail>「蒼龍改二」(※旗艦)及び「飛龍改二」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！</JP-Detail>
     <TR-Detail>Have Souryuu Kai-2 (蒼龍改二) as flagship with Hiryuu Kai-2 (飛龍改二) and 2 destroyers in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>254</ID>
+    <JP-Name>「軽空母」戦隊、出撃せよ！</JP-Name>
+    <TR-Name>「軽空母」戦隊、出撃せよ！</TR-Name>
+    <JP-Detail>軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>255</ID>
+    <JP-Name>「水雷戦隊」バシー島沖緊急展開</JP-Name>
+    <TR-Name>「水雷戦隊」バシー島沖緊急展開</TR-Name>
+    <JP-Detail>軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！</TR-Detail>
   </Quest>
 </Quests>
