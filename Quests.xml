@@ -292,7 +292,7 @@
     <JP-Name>「空母機動部隊」出撃せよ！</JP-Name>
     <TR-Name>Sortie a Carrier Task Force!</TR-Name>
     <JP-Detail>空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！</JP-Detail>
-    <TR-Detail>Deply a fleet with CV(L) as flagship and 5 DD/CL/AV for the escorts.</TR-Detail>
+    <TR-Detail>Depoly a fleet with CV(L) as flagship and 5 DD/CL/AV for the escorts.</TR-Detail>
   </Quest>
   <Quest>
     <ID>B10</ID>
